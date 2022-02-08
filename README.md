@@ -1,2 +1,1 @@
-# github.io
-site for my csgo server
+Это сайт для моего сервера по игре ксго :)
